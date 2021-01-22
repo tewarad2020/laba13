@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นายเทวฤทธิ์ สมฤทธิ์
+# STUDENT ID: 630610731
